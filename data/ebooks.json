@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "title": "Laskar Pelangi",
+        "author": "Andrea Hirata",
+        "category": "Novel",
+        "year": 2005,
+        "description": "Kisah sepuluh anak dari Belitung yang berjuang mengejar pendidikan.",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "title": "Bumi Manusia",
+        "author": "Pramoedya Ananta Toer",
+        "category": "Novel",
+        "year": 1980,
+        "description": "Novel pertama Tetralogi Buru tentang Minke di masa kolonial.",
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Teknologi",
+        "year": 2008,
+        "description": "Panduan menulis kode yang bersih, mudah dibaca, dan mudah dirawat.",
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt & David Thomas",
+        "category": "Teknologi",
+        "year": 2019,
+        "description": "Kumpulan praktik dan filosofi untuk menjadi programmer yang efektif.",
+        "stock": 2
+    },
+    {
+        "id": 5,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Pengembangan Diri",
+        "year": 2018,
+        "description": "Cara membangun kebiasaan baik dan meninggalkan kebiasaan buruk lewat perubahan kecil.",
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "title": "Filosofi Teras",
+        "author": "Henry Manampiring",
+        "category": "Pengembangan Diri",
+        "year": 2018,
+        "description": "ok",
+        "stock": 1
+    },
+    {
+        "id": 7,
+        "title": "Chainsaw Man Vol. 12",
+        "author": "Tatsuki Fujimoto",
+        "category": "Manga",
+        "year": 2023,
+        "description": "Volume kedua belas kisah Chainsaw Man yang mengisahkan Denji dan para Pemburu Iblis dalam pertempuran brutal, konflik emosional, serta misteri yang semakin mengancam kehidupan mereka.",
+        "stock": 3,
+        "cover": "/assets/images/chainsaw-man-vol-12.jpg"
+    },
+    {
+        "id": 8,
+        "title": "John Wick",
+        "author": "Greg Pak",
+        "category": "Komik",
+        "year": 2017,
+        "description": "Komik aksi John Wick yang mengikuti legenda pembunuh bayaran dalam misi berbahaya penuh intrik, pertarungan intens, dan dendam di dunia kriminal yang tanpa ampun.",
+        "stock": 2,
+        "cover": "/assets/images/john-wick-novel.jpg"
+    }
+]

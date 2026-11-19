@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Administrator",
+        "email": "admin@ebook.test",
+        "password": "$2y$10$YWBlgslBlCCwXy.Qb7JBCOM8bEOtqCxmRow7NX.c0HNtfErOmoFCq",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Member Demo",
+        "email": "member@ebook.test",
+        "password": "$2y$10$cfuTYwCpZ1GJ3TrYckWU.ugzTm1advYntUx17ExTrQfTp89JIRXM6",
+        "role": "member"
+    }
+]
