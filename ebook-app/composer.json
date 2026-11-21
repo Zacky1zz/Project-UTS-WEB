@@ -1,6 +1,0 @@
-{
-    "name": "kelompok/ebook-app",
-    "description": "UTS Pemrograman Web - Aplikasi katalog & peminjaman e-book (PHP OOP tanpa framework)",
-    "require": { "php": ">=8.1", "ext-mbstring": "*" },
-    "autoload": { "psr-4": { "App\\": "src/" } }
-}
