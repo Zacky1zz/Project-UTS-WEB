@@ -34,9 +34,4 @@ data/              penyimpanan JSON (ebooks, users, loans)
 - **Encapsulation**: properti `private/protected`, akses via getter; `Ebook::borrow()` menjaga aturan stok.
 - **Inheritance**: `User` (abstract) -> `Member` -> `PremiumMember`; `User` -> `Admin`; `JsonRepository` -> 3 repository.
 - **Polymorphism**: `getBorrowLimit()` / `getLoanDays()` berbeda tiap role; `Borrowable` interface; `User::fromArray()` factory.
-- **Front-end**: HTML semantik, form + validasi (HTML5 + JS), layout responsif, filter katalog live, indikator password, konfirmasi aksi.
-
-## Ide pengembangan (silakan tambah)
-- Halaman admin untuk mengubah member menjadi premium (`PremiumMember`).
-- Denda keterlambatan, riwayat per e-book, pagination.
-- Upload cover buku, perpanjangan pinjaman.
+- **Front-end**: HTML semantik, form + validasi (HTML5 + JS), layout responsif, filter katalog live, indikator password, konfirmasi aksi
